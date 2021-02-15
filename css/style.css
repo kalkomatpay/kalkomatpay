@@ -434,6 +434,7 @@ a:focus {
 }
 
 #about .teammate .profile-photo img {
+    width: 300px;
     -webkit-transition: all .4s ease;
     -moz-transition: all .4s ease;
     -ms-transition: all .4s ease;
